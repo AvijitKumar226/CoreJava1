@@ -3,7 +3,7 @@ package com.jsp.higestScore;
 public class HigestScore {
 	public static void main(String[] args) {
 		
-		String s1="team A score 4500 marks";
+		String s1="team A score 4500 marks"; 
 		String s2="team B score 60 marks";
 		String s3="team C score 55 marks";
 		String s4="team D score 100 marks";
